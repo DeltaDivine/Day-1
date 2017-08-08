@@ -11,6 +11,7 @@
     <title>Demo</title>
   </head>
   <body>
+  <h1>Day 1</h1>
     <a href="/day1/exercise_01.html">Example 1</a><br>
     <a href="/day1/exercise_02.html">Example 2</a><br>
     <a href="/day1/exercise_03.html">Example 3</a><br>
@@ -18,6 +19,8 @@
     <a href="/day1/exercise_05.html">Example 5</a><br>
     <a href="/day1/exercise_06.html">Example 6</a><br>
     <a href="/day1/exercise_07.html">Example 7</a><br>
-    <a href="/day1/exercise_08.html">Example 8</a>
+    <a href="/day1/exercise_08.html">Example 8</a><br>
+  <h1>Day 2</h1>
+  <a href="/day2/my-lap2.html">my lap 2</a>
   </body>
 </html>
