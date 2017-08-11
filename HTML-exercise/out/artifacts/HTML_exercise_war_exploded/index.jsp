@@ -22,5 +22,7 @@
     <a href="/day1/exercise_08.html">Example 8</a><br>
   <h1>Day 2</h1>
   <a href="/day2/my-lap2.html">my lap 2</a>
+  <h1>Day 3</h1>
+  <a href="/day3/my-lap3.html">my lap 3</a>
   </body>
 </html>
