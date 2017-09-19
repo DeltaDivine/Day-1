@@ -1,0 +1,100 @@
+menu {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    overflow: auto;
+    white-space: nowrap;
+    float: right;
+    background: #99ffcc;
+    padding: 50px 217px 51px 800px;
+}
+
+menu a {
+    display: inline-block;
+    color: steelblue;
+    text-align: center;
+    padding: 14px;
+    font-size: 20px;
+}
+
+a + a {
+    border-left: 1px solid #000000;
+}
+
+h1 {
+    float: left;
+    font-size: 45px;
+    background: #99ffcc;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#titleImage {
+    background: #99ffcc;
+    float: left;
+    height: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    padding-top: 30px;
+    padding-bottom: 22px;
+    margin-left: 0px;
+    padding-left: 150px;
+}
+
+article {
+    width: 100%;
+    background: steelblue;
+    float: left;
+}
+
+h2 {
+    display: block;
+    text-align: center;
+    color: white;
+}
+
+.author {
+    color: white;
+    text-align: right;
+    display: block;
+    margin-right: 250px;
+}
+section {
+    float: left;
+    display: block;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 200px;
+    margin-bottom: 70px;
+}
+u {
+    color: steelblue;
+    font-size: 25px;
+}
+p {
+    text-align: justify;
+}
+footer {
+    color: white;
+    background: steelblue;
+    clear: both;
+    text-align: center;
+    padding: 10px;
+}
+#typography{
+    width: 240px;
+}
+header{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+}
+button{
+    padding-left: 0px;
+    padding-right: 0px;
+    width: 104px;
+    position: fixed;
+    border: 2px solid black;
+    margin: 500px 0px 0px 1250px;
+}
