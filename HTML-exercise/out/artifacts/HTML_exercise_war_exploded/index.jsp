@@ -32,7 +32,10 @@
   <a href="/day6/my-lap6.html">my lap 6</a>
   <h1>Day 7</h1>
   <a href="/day7/my-lap7.html">my lap 7</a>
+<<<<<<< HEAD
   <h1>Day 8</h1>
   <a href="/day8/my-lap8.html">my lap 8</a>
+=======
+>>>>>>> a66559f89bc658202048b83781d15689481b98af
   </body>
 </html>
