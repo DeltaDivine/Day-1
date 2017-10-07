@@ -28,5 +28,11 @@
   <a href="/day4/my-lap4.html">my lap 4</a>
   <h1>Day 5</h1>
   <a href="/day5/my-lap5.html">my lap 5</a>
+  <h1>Day 6</h1>
+  <a href="/day6/my-lap6.html">my lap 6</a>
+  <h1>Day 7</h1>
+  <a href="/day7/my-lap7.html">my lap 7</a>
+  <h1>Day 8</h1>
+  <a href="/day8/my-lap8.html">my lap 8</a>
   </body>
 </html>

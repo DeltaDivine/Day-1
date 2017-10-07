@@ -1,0 +1,17 @@
+body{
+    margin-right: 60%;
+}
+label{
+    line-height: 40px;
+}
+input[type="text"], input[type="email"], input[type="password"], input[type="date"], textarea{
+    position: absolute;
+    left: 200px;
+}
+#gender, #fav, #img{
+    margin-left: 100px;
+}
+#sm {
+    margin-left: 40%;
+    margin-top: 10px;
+}
